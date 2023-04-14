@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Yun Fang Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=snow-ham1949)
+
 <!--
 **snow-ham1949/snow-ham1949** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
