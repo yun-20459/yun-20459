@@ -3,7 +3,7 @@
 ---
 ### Hello 🙌🙌
 My name is Erin Li.
-Student in National Taiwan University, R.O.C(Taiwan).  
+Student in National Taiwan University, Computer Science and Informatin Engineering (CSIE) department.  
 Welcome to my gitHub page ✨✨
 
 I'm interested in software development, Human Computer Interaction, and psychology.
