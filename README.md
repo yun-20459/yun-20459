@@ -3,7 +3,8 @@
 ---
 ### Hello 🙌🙌
 My name is Erin Li.
-Student in National Taiwan University, Computer Science and Informatin Engineering (CSIE) department.  
+Bachelor's degree in Computer Science and Information Engineering (CSIE) from National Taiwan University.
+Currently employed at Google.
 Welcome to my gitHub page ✨✨
 
 I'm interested in software development, Human Computer Interaction, and psychology.
@@ -83,11 +84,10 @@ I'm interested in software development, Human Computer Interaction, and psycholo
 </span>
 
 ### Other Links
-- Personal Blog Site: https://blog.csypt.me
-- resume: [link](https://drive.google.com/file/d/1Rln5gqrqbT-Pkm2Tz3IIDh88MAiqIPja/view?usp=share_link)
+- Personal Blog Site: https://snow-ham1949.github.io
 - ✉️Email me at: b08502041@csie.ntu.edu.tw
 
 If there is any problem or incorrect in repository, please feel free to let me know.
 
-<img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=snow-ham1949&show_icons=true&bg_color=30,eecda3,ef629f&title_color=fff&text_color=fff" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snow-ham1949&theme=dark"/>
+<img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=yun-20459&show_icons=true&bg_color=30,eecda3,ef629f&title_color=fff&text_color=fff" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yun-20459&theme=dark"/>
